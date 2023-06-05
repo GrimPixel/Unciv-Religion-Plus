@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Animal Sacrifice",
+		"type": "Follower",
+		"uniques": ["[+1 Faith] from every [Pasture]"]
+	},
+	{
+		"name": "Cattle Worship",
+		"type": "Follower",
+		"uniques": ["[+2 Faith] from every [Cattle]"]
+	},
+	{
+		"name": "Meditation",
+		"type": "Follower",
+		"uniques": ["[+1 Happiness] from every [3] global followers [in this city]"]
+	},
+	{
+		"name": "Share of the Spirit",
+		"type": "Follower",
+		"uniques": ["[+1 Faith] [in cities following this religion]"]
+	},
+]
