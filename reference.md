@@ -1,0 +1,15 @@
+* https://commons.wikimedia.org/wiki/File:Bahai_star.svg
+* https://commons.wikimedia.org/wiki/File:C%E1%BB%9D_Ng%C5%A9_s%E1%BA%AFc_(Vietnam%27s_five-color_flag).png
+* https://commons.wikimedia.org/wiki/File:Crowley_unicursal_hexagram.svg
+* https://commons.wikimedia.org/wiki/File:Druze_star.svg
+* https://commons.wikimedia.org/wiki/File:Eye_of_Horus_Right.svg
+* https://commons.wikimedia.org/wiki/File:Flaming_Chalice.svg
+* https://commons.wikimedia.org/wiki/File:Greek_Roman_Laurel_wreath_with_branches_vector.svg
+* https://commons.wikimedia.org/wiki/File:Gye_Nyame_(Adinkra_Symbol).svg
+* https://commons.wikimedia.org/wiki/File:Isese_religion.png
+* https://commons.wikimedia.org/wiki/File:Pentacle_(fixed_width).svg
+* https://commons.wikimedia.org/wiki/File:Pentagram_(fixed_width).svg
+* https://commons.wikimedia.org/wiki/File:Shang_archaic_form_of_Di.svg
+* https://commons.wikimedia.org/wiki/File:Swastik4.svg
+* https://commons.wikimedia.org/wiki/File:Thor%27s_Hammer-Mj%C3%B6lnir.svg
+* https://commons.wikimedia.org/wiki/File:Triskele-Symbol1.svg
