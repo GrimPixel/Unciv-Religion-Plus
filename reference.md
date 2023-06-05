@@ -7,9 +7,10 @@
 * https://commons.wikimedia.org/wiki/File:Greek_Roman_Laurel_wreath_with_branches_vector.svg
 * https://commons.wikimedia.org/wiki/File:Gye_Nyame_(Adinkra_Symbol).svg
 * https://commons.wikimedia.org/wiki/File:Isese_religion.png
+* https://commons.wikimedia.org/wiki/File:Javanism.jpg
 * https://commons.wikimedia.org/wiki/File:Pentacle_(fixed_width).svg
 * https://commons.wikimedia.org/wiki/File:Pentagram_(fixed_width).svg
-* https://commons.wikimedia.org/wiki/File:Shang_archaic_form_of_Di.svg
 * https://commons.wikimedia.org/wiki/File:Swastik4.svg
 * https://commons.wikimedia.org/wiki/File:Thor%27s_Hammer-Mj%C3%B6lnir.svg
 * https://commons.wikimedia.org/wiki/File:Triskele-Symbol1.svg
+* https://commons.wikimedia.org/wiki/File:%E7%A6%84_l%C3%B9_or_%E5%AD%90_zi_symbol---red.svg
