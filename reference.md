@@ -1,4 +1,6 @@
 * https://commons.wikimedia.org/wiki/File:Bahai_star.svg
+* https://commons.wikimedia.org/wiki/File:Cao_Dai_white.png
+* https://commons.wikimedia.org/wiki/File:Cheondoism_symbol_red.svg
 * https://commons.wikimedia.org/wiki/File:C%E1%BB%9D_Ng%C5%A9_s%E1%BA%AFc_(Vietnam%27s_five-color_flag).png
 * https://commons.wikimedia.org/wiki/File:Crowley_unicursal_hexagram.svg
 * https://commons.wikimedia.org/wiki/File:Druze_star.svg
@@ -8,9 +10,12 @@
 * https://commons.wikimedia.org/wiki/File:Gye_Nyame_(Adinkra_Symbol).svg
 * https://commons.wikimedia.org/wiki/File:Isese_religion.png
 * https://commons.wikimedia.org/wiki/File:Javanism.jpg
+* https://commons.wikimedia.org/wiki/File:Logo_of_H%C3%B2a_H%E1%BA%A3o.svg
+* https://commons.wikimedia.org/wiki/File:Noun_Voodoo_Doll_44024.svg
 * https://commons.wikimedia.org/wiki/File:Pentacle_(fixed_width).svg
 * https://commons.wikimedia.org/wiki/File:Pentagram_(fixed_width).svg
 * https://commons.wikimedia.org/wiki/File:Swastik4.svg
+* https://commons.wikimedia.org/wiki/File:Tenrikyo_emblem.svg
 * https://commons.wikimedia.org/wiki/File:Thor%27s_Hammer-Mj%C3%B6lnir.svg
 * https://commons.wikimedia.org/wiki/File:Triskele-Symbol1.svg
 * https://commons.wikimedia.org/wiki/File:%E7%A6%84_l%C3%B9_or_%E5%AD%90_zi_symbol---red.svg
