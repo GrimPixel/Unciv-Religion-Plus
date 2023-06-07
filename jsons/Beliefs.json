@@ -1,12 +1,12 @@
 [
 	{
 		"name": "Animal Sacrifice",
-		"type": "Follower",
+		"type": "Pantheon",
 		"uniques": ["[+1 Faith] from every [Pasture]"]
 	},
 	{
 		"name": "Cattle Worship",
-		"type": "Follower",
+		"type": "Pantheon",
 		"uniques": ["[+３ Faith] from every [Cattle]", "[-１ Food] from every [Cattle]"]
 	},
 	{
