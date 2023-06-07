@@ -12,7 +12,12 @@
 	{
 		"name": "Meditation",
 		"type": "Follower",
-		"uniques": ["[+1 Happiness] from every [3] global followers [in this city]"]
+		"uniques": ["[+1 Happiness] from every [5] global followers [in all cities]"]
+	},
+	{
+		"name": "Self-Flagellation",
+		"type": "Follower",
+		"uniques": ["[-1 Happiness] from every [5] global followers [in all cities], [+2 Culture] from every [5] global followers [in all cities]"]
 	},
 	{
 		"name": "Share of the Spirit",
