@@ -7,7 +7,7 @@
 	{
 		"name": "Cattle Worship",
 		"type": "Pantheon",
-		"uniques": ["[+３ Faith] from every [Cattle]", "[-１ Food] from every [Cattle]"]
+		"uniques": ["[+3 Faith] from every [Cattle]", "[-１ Food] from every [Cattle]"]
 	},
 	{
 		"name": "Meditation",
