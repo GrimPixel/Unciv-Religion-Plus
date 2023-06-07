@@ -7,7 +7,7 @@
 	{
 		"name": "Cattle Worship",
 		"type": "Pantheon",
-		"uniques": ["[+3 Faith] from every [Cattle]", "[-１ Food] from every [Cattle]"]
+		"uniques": ["[-１ Food, +3 Faith] from every [Cattle]"]
 	},
 	{
 		"name": "Meditation",
@@ -17,11 +17,11 @@
 	{
 		"name": "Self-Flagellation",
 		"type": "Follower",
-		"uniques": ["[-1 Happiness] from every [5] global followers [in all cities], [+2 Culture] from every [5] global followers [in all cities]"]
+		"uniques": ["[-1 Happiness, +3 Faith] from every [5] global followers [in this city]"]
 	},
 	{
 		"name": "Share of the Spirit",
-		"type": "Follower",
-		"uniques": ["[+1 Faith] [in cities following this religion]"]
+		"type": "Pantheon",
+		"uniques": ["[+1 Faith] from every [Shrine]", "[+2 Faith] from every [Temple]"]
 	}
 ]
