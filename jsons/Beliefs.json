@@ -10,18 +10,18 @@
 		"uniques": ["[-１ Food, +3 Faith] from every [Cattle]"]
 	},
 	{
-		"name": "Meditation",
-		"type": "Follower",
-		"uniques": ["[+1 Happiness] from every [5] global followers [in all cities]"]
+		"name": "Chosen People",
+		"type": "Founder",
+		"uniques": ["[+1 Faith] from every [5] global followers [in this city]"]
 	},
 	{
 		"name": "Self-Flagellation",
 		"type": "Follower",
-		"uniques": ["[-1 Happiness, +3 Faith] from every [5] global followers [in this city]"]
+		"uniques": ["[-1 Happiness, +4 Faith] from every [9] global followers [in this city]"]
 	},
 	{
 		"name": "Share of the Spirit",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from every [Shrine]", "[+2 Faith] from every [Temple]"]
+		"uniques": ["[+1 Faith] from every [Shrine]"]
 	}
 ]
