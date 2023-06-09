@@ -1,3 +1,4 @@
+* https://commons.wikimedia.org/wiki/File:Ahimsa_Jainism.svg
 * https://commons.wikimedia.org/wiki/File:Bahai_star.svg
 * https://commons.wikimedia.org/wiki/File:Cao_Dai_white.png
 * https://commons.wikimedia.org/wiki/File:Cheondoism_symbol_red.svg
@@ -15,7 +16,6 @@
 * https://commons.wikimedia.org/wiki/File:Pentacle_(fixed_width).svg
 * https://commons.wikimedia.org/wiki/File:Pentagram_(fixed_width).svg
 * https://commons.wikimedia.org/wiki/File:Red_Rodnover_kolovrat.svg
-* https://commons.wikimedia.org/wiki/File:Swastik4.svg
 * https://commons.wikimedia.org/wiki/File:Tenrikyo_emblem.svg
 * https://commons.wikimedia.org/wiki/File:Thor%27s_Hammer-Mj%C3%B6lnir.svg
 * https://commons.wikimedia.org/wiki/File:Triskele-Symbol1.svg
