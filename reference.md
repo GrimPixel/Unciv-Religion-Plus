@@ -19,8 +19,8 @@
 * https://commons.wikimedia.org/wiki/File:Pentacle_(fixed_width).svg
 * https://commons.wikimedia.org/wiki/File:Pentagram_(fixed_width).svg
 * https://commons.wikimedia.org/wiki/File:Red_Rodnover_kolovrat.svg
-* https://commons.wikimedia.org/wiki/File:Sol_de_Mayo-Bandera_de_Argentina.svg
-* https://commons.wikimedia.org/wiki/File:Sol_de_Mayo-Bandera_de_Argentina.svg
+* https://commons.wikimedia.org/wiki/File:Shamash-sun-symbol_(3_rays)
+* https://commons.wikimedia.org/wiki/File:Sol_de_Mayo-Bandera_de_Uruguay.svg
 * https://commons.wikimedia.org/wiki/File:Tenrikyo_emblem.svg
 * https://commons.wikimedia.org/wiki/File:Thor%27s_Hammer-Mj%C3%B6lnir.svg
 * https://commons.wikimedia.org/wiki/File:Triskele-Symbol1.svg
